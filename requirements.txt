@@ -5,4 +5,4 @@ langchain
 langchain-openai
 langchain-community
 chromadb
-protobuf
+protobuf==3.20.3
