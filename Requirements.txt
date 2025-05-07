@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-community
-langchain-openai
-openai
-PyPDF2
-chromadb
-tqdm
-python-dotenv
