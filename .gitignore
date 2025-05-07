@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+session_id.txt
+chroma_db/
+pdf_files/
